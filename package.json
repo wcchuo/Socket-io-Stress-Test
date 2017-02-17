@@ -1,0 +1,22 @@
+{
+  "name": "socket-io-stress-test",
+  "version": "1.0.0",
+  "description": "This is a simple socket-io client and server tools to stress test socket-io performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket-io",
+    "stress",
+    "test"
+  ],
+  "author": "Wei Chung Chuo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "log-timestamp": "^0.1.2",
+    "socket-io": "^1.0.0"
+  },
+  "devDependencies": {}
+}
